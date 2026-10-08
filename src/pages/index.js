@@ -8,6 +8,7 @@ const icons = {
   book: 'M4 4h11a3 3 0 013 3v13H7a3 3 0 01-3-3V4zm2 2v11a1 1 0 001 1h9V7a1 1 0 00-1-1H6z',
   cap: 'M12 3L1 9l11 6 9-4.9V17h2V9L12 3zM5 13.2V17c0 1.7 3.1 3 7 3s7-1.3 7-3v-3.8l-7 3.8-7-3.8z',
   gear: 'M12 8a4 4 0 100 8 4 4 0 000-8zm8.5 5.5v-3l-2.2-.5a6.6 6.6 0 00-.7-1.7l1.2-1.9-2.1-2.1-1.9 1.2a6.6 6.6 0 00-1.7-.7L12.5 3.5h-3l-.5 2.3c-.6.2-1.2.4-1.7.7L5.4 5.3 3.3 7.4l1.2 1.9c-.3.5-.5 1.1-.7 1.7l-2.3.5v3l2.3.5c.2.6.4 1.2.7 1.7l-1.2 1.9 2.1 2.1 1.9-1.2c.5.3 1.1.5 1.7.7l.5 2.3h3l.5-2.3c.6-.2 1.2-.4 1.7-.7l1.9 1.2 2.1-2.1-1.2-1.9c.3-.5.5-1.1.7-1.7l2.2-.5z',
+  pen: 'M3 17.25V21h3.75L17.81 9.94l-3.75-3.75L3 17.25zM20.71 7.04a1 1 0 000-1.41l-2.34-2.34a1 1 0 00-1.41 0l-1.83 1.83 3.75 3.75 1.83-1.83z',
   plus: 'M11 5h2v6h6v2h-6v6h-2v-6H5v-2h6V5z',
 };
 
@@ -23,7 +24,7 @@ const exampleSearches = ['reset password', 'upload a course', 'enroll learners']
 
 const roles = [
   {icon: 'cap', title: 'Learners', text: 'Sign in, find your courses and track your progress.', to: '/open-edx/learners'},
-  {icon: 'book', title: 'Course authors', text: 'Build courses, add content and publish with Studio.', to: '/open-edx/course-authors'},
+  {icon: 'pen', title: 'Course authors', text: 'Build courses, add content and publish with Studio.', to: '/open-edx/course-authors'},
   {icon: 'gear', title: 'Administrators', text: 'Manage users, enrolments, reports and settings.', to: '/open-edx/admins'},
 ];
 
