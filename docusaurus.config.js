@@ -56,7 +56,8 @@ const config = {
     ({
       image: 'img/social-card.jpg',
       colorMode: {
-        respectPrefersColorScheme: true,
+        defaultMode: 'dark',
+        respectPrefersColorScheme: false,
       },
       navbar: {
         title: 'Abstract Technology Docs',
