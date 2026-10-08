@@ -1,0 +1,71 @@
+@font-face {
+  font-family: 'Clash Display';
+  src: url('/fonts/ClashDisplay-Medium.woff2') format('woff2');
+  font-weight: 500;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Clash Display';
+  src: url('/fonts/ClashDisplay-Semibold.woff2') format('woff2');
+  font-weight: 600;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Clash Display';
+  src: url('/fonts/ClashDisplay-Bold.woff2') format('woff2');
+  font-weight: 700;
+  font-display: swap;
+}
+
+:root {
+  --brand-sky: #18b4e8;
+  --brand-amber: #f8b800;
+  --brand-slate-950: #0e151c;
+  --brand-slate-900: #131b23;
+  --brand-slate-800: #1a242f;
+  --brand-slate-700: #212e3a;
+  --font-display: 'Clash Display', system-ui, sans-serif;
+
+  --ifm-color-primary: #936c00;
+  --ifm-color-primary-dark: #836000;
+  --ifm-color-primary-darker: #7b5a00;
+  --ifm-color-primary-darkest: #654a00;
+  --ifm-color-primary-light: #a37900;
+  --ifm-color-primary-lighter: #ab7f00;
+  --ifm-color-primary-lightest: #c79200;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #f8b800;
+  --ifm-color-primary-dark: #dea600;
+  --ifm-color-primary-darker: #d09c00;
+  --ifm-color-primary-darkest: #aa7e00;
+  --ifm-color-primary-light: #f9c21f;
+  --ifm-color-primary-lighter: #fac72f;
+  --ifm-color-primary-lightest: #fbd35c;
+  --ifm-background-color: #1a1a1a;
+  --ifm-background-surface-color: #222222;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+h1,
+h2,
+h3,
+.navbar__title {
+  font-family: var(--font-display);
+}
+
+.navbar__logo img {
+  height: 2rem;
+  border-radius: 0.4rem;
+}
+
+[data-theme='dark'] .navbar__logo img {
+  outline: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+.footer {
+  --ifm-footer-background-color: #111111;
+}
