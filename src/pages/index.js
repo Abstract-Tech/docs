@@ -1,4 +1,5 @@
 import Link from '@docusaurus/Link';
+import useBaseUrl from '@docusaurus/useBaseUrl';
 import Layout from '@theme/Layout';
 import styles from './index.module.css';
 
@@ -52,6 +53,7 @@ function openSearch() {
 }
 
 export default function Home() {
+  const openEdxLogo = useBaseUrl('/img/openedx-logo.png');
   return (
     <Layout
       title="Help Center"
@@ -85,7 +87,9 @@ export default function Home() {
             <p className={styles.sectionLead}>Pick a service to browse its documentation.</p>
             <div className={styles.grid}>
               <Link className={styles.card} to="/open-edx/overview">
-                <Icon name="book" className={styles.cardIcon} />
+                <span className={styles.logoTile}>
+                  <img src={openEdxLogo} alt="" />
+                </span>
                 <h3 className={styles.cardTitle}>Open edX</h3>
                 <p className={styles.cardText}>
                   Your learning platform: courses, learners, Studio, analytics and AI tools.
