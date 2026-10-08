@@ -211,6 +211,23 @@ a.card:hover {
   color: var(--ifm-color-primary);
 }
 
+.logoTile {
+  display: grid;
+  width: 4rem;
+  height: 4rem;
+  place-items: center;
+  padding: 0.25rem;
+  background: #fff;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 0.75rem;
+}
+
+.logoTile img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
 .cardTitle {
   margin: 0;
   font-family: var(--font-display);
