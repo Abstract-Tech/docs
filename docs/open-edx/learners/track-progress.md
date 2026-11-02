@@ -31,4 +31,4 @@ Monitoring your learning journey is key to staying on track. Open edX provides b
 2. **Course Certificate Eligibility:**
    * If your course offers a certificate, the **Progress** page will indicate your completion status against the required passing threshold, letting you know when you have successfully satisfied all criteria.
 
-*Need help? If you notice discrepancies in your grades or have questions about assignment deadlines, please reach out to your course instructor or support team.*
+*Need help? If you experience any issues during registration or login, please reach out to support@abstract-technology.de.*

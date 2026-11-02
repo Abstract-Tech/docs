@@ -2,7 +2,7 @@
 title: How to Register and Log In to the Open edX Platform
 sidebar_position: 1
 ---
-Follow these simple steps to create an account, activate it, and log in to access your courses on an Open edX® platform.
+Welcome to your digital learning environment! Follow these simple steps to create your account, activate it, and log in to access your courses.
 
 ## Part 1: Creating a New Account (Registration)
 
