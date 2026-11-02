@@ -1,9 +1,7 @@
 ---
-title: Find and enroll in courses
+title: How to Find and Enroll in Courses on Open edX
 sidebar_position: 2
 ---
-
-# How to Find and Enroll in Courses on Open edX
 
 Once you are logged into your Open edX account, you can explore available courses, view detailed syllabi, and enroll with just a few clicks. Follow this guide to find and start your next learning journey.
 
@@ -38,4 +36,4 @@ Once you are logged into your Open edX account, you can explore available course
 2. **Start Learning:**
    * Locate the course card on your dashboard and click **"View Course"** or **"Resume Course"** to open the courseware, view video lectures, complete assignments, and track your progress.
 
-*Need help? If you are unable to find a specific course or encounter issues with enrollment, please contact your organization's course administrator or support team.*
+*Need help? If you experience any issues during registration or login, please reach out to support@abstract-technology.de.*

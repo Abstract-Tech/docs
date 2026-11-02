@@ -1,5 +1,5 @@
 ---
-title: Certificates
+title: How to Earn and Download Your Certificates on Open edX
 sidebar_position: 4
 ---
 
@@ -41,4 +41,4 @@ Once you have successfully completed all course requirements, Open edX automatic
    * Click the **"Download Certificate"** button (available as a PDF) or the **"View Certificate"** link.
    * You can save the PDF to your device, print it, or share the unique certificate URL directly on professional networks like LinkedIn.
 
-*Need help? If you have passed all requirements but do not see your certificate, please contact your course administrator or support team.*
+*Need help? If you experience any issues during registration or login, please reach out to support@abstract-technology.de.*
