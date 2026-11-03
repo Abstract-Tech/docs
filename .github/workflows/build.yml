@@ -15,6 +15,13 @@ jobs:
 
     steps:
       - uses: actions/checkout@v7
+      - name: Verify checkout
+        run: |
+          pwd
+          git rev-parse --show-toplevel
+          ls -la
+          test -f package.json
+          test -f pnpm-lock.yaml
       - uses: pnpm/action-setup@v5
       - uses: actions/setup-node@v7
         with:
