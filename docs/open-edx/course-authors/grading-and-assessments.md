@@ -12,21 +12,31 @@ Before creating graded assignments, you need to establish your grading categorie
 
    * In Open edX Studio, open your course and navigate to the top navigation bar. Click on **"Settings"** and select **"Grading"**.
 
+   ![Settings menu in Studio with Grading selected](images/grading-and-assessments/01-settings-grading-menu.png)
+
 2. **Configure Assignment Types (Grading Policy):**
 
    * By default, the platform includes standard categories (e.g., Homework, Lab, Midterm Exam, Final Exam). You can edit these or click **"+ Add Grade Category"** to create new ones (e.g., *Quizzes*, *Participation*).
+
+   ![Assignment types section on the Grading page](images/grading-and-assessments/02-assignment-types.png)
 
 3. **Set Weight Percentages:**
 
    * Assign a percentage weight to each category (e.g., Homework: 30%, Quizzes: 20%, Final Exam: 50%). Note: The total weight across all active categories **must equal 100%**.
 
+   ![How the course grade is calculated from the weighted assignment types](images/grading-and-assessments/03-overall-grade-formula.png)
+
 4. **Define Due Dates and Grace Periods:**
 
    * Set default release and due dates for assignment types, or configure how late submissions are handled.
 
+   ![Grading page with the grace period field](images/grading-and-assessments/04-grace-period.png)
+
 5. **Set the Passing Grade:**
 
    * Scroll down to the **Grade Range** or **Passing Grade** section and enter the minimum percentage required to pass the course (e.g., `60`).
+
+   ![Overall grade range slider with the Pass/Fail threshold](images/grading-and-assessments/05-grade-range.png)
 
 6. **Save Changes:**
 
@@ -46,11 +56,15 @@ Once your grading categories are set up, you can tag individual problem componen
 
    * In the component toolbar, click on **"Problem"** and choose a question type (e.g., *Multiple Choice*, *Checkboxes*, *Dropdown*, or *Text Response*).
 
+   ![Add New Component panel with the Problem button](images/grading-and-assessments/06-add-new-component-problem.png)
+
 3. **Edit the Assessment:**
 
    * Click **"Edit"** on the problem component to open the XML/Studio problem editor.
 
    * Enter your question prompt, answer choices, and specify the correct answer(s).
+
+   ![Problem editor with question, answers and Scoring settings](images/grading-and-assessments/07-problem-editor.png)
 
 4. **Assign the Problem to a Grading Category:**
 
@@ -71,5 +85,7 @@ Once your grading categories are set up, you can tag individual problem componen
 1. **View Learner Grades:**
 
    * Instructors and staff can review learner scores and override grades if necessary via the **Instructor Dashboard** under the **Student Management** or **Grading** tabs.
+
+   ![Edit Grades dialog in the gradebook](images/grading-and-assessments/08-gradebook-edit-grades.png)
 
 *Need help? If you experience any issues during registration or login, please reach out to support@abstract-technology.de.*

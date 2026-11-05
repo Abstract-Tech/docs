@@ -10,6 +10,8 @@ Welcome to your digital learning environment! Follow these simple steps to creat
    Open your web browser and go to your organization's Open edX portal URL.
 2. **Access the Registration Page:**  
    Click the **"Sign Up"**, **"Register"**, or **"Create Account"** button located in the top-right corner of the homepage.
+
+   ![Platform home page with the Login and Sign Up buttons in the top-right corner](images/sign-in-and-profile/01-home-sign-up-login.png)
 3. **Fill in Your Information:**  
    Complete the registration form with your required details:
    * **Full Name:** Enter your first and last name (this will appear on your completion certificates).
@@ -17,6 +19,8 @@ Welcome to your digital learning environment! Follow these simple steps to creat
    * **Email Address:** Provide a valid, frequently checked email address. *(Tip: To ensure you receive system notifications, consider adding the platform’s support or notification address to your safe senders/contacts list).*
    * **Password:** Create a secure password meeting the platform's requirements.
    * **Country/Region:** Select your location from the dropdown menu.
+
+   ![Registration form with Full name, Email, Public username, Password and Country/Region](images/sign-in-and-profile/02-registration-form.png)
 4. **Accept Terms and Conditions:**  
    Review the Terms of Service and Privacy Policy, then check the box to accept them.
 5. **Complete Registration:**  
@@ -39,6 +43,8 @@ Welcome to your digital learning environment! Follow these simple steps to creat
 
 1. **Go to the Login Page:**  
    Click the **"Sign In"** or **"Log In"** button on the platform homepage.
+
+   ![Platform home page with the Login button in the top-right corner](images/sign-in-and-profile/01-home-sign-up-login.png)
 2. **Enter Your Credentials:**  
    Input your registered **Email Address** (or Username) and your **Password**.
 3. **Sign In:**  
@@ -50,8 +56,12 @@ Welcome to your digital learning environment! Follow these simple steps to creat
 
 1. **Explore Your Dashboard:**  
    Once logged in, you will land on your **Dashboard**, which displays all the courses you are currently enrolled in.
+
+   ![Learner dashboard after logging in](images/sign-in-and-profile/03-learner-dashboard.png)
 2. **Start Learning:**  
    Click **"View Course"** on any active course card to enter the learning interface, access materials, and begin your modules.
+
+   ![Course card on the dashboard with the View Course button](images/sign-in-and-profile/04-dashboard-view-course.png)
 
 ---
 *Need help? If you experience any issues during registration or login, please reach out to support@abstract-technology.de.*

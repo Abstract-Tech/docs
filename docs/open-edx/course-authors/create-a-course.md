@@ -20,6 +20,8 @@ Open edX Studio is the authoring environment where educators and course teams bu
 
    * From the Studio dashboard, click the **"+ New Course"** button.
 
+     ![Studio Home with the New Course button](images/create-course/01-studio-home-new-course.png)
+
 2. **Fill in Course Details:**
 
    * Complete the required fields in the modal window:
@@ -28,6 +30,8 @@ Open edX Studio is the authoring environment where educators and course teams bu
      * **Course Number:** A unique code or short identifier (e.g., *RE101*).
      * **Course Run:** The session or semester identifier (e.g., *2026_Q1*).
 
+     ![Create a New Course form with Course Name, Organization, Course Number and Course Run](images/create-course/02-create-new-course-form.png)
+
 3. **Save and Create:**
 
    * Click **"Create"**.
@@ -35,5 +39,7 @@ Open edX Studio is the authoring environment where educators and course teams bu
 4. **Review Your Course Outline:**
 
    * Once created, the system will redirect you to the empty course outline in Studio, where you can begin structuring your curriculum, adding chapters, sequential modules, and units.
+
+     ![Course outline in Studio](images/create-course/03-course-outline.png)
 
 *Need help? If you experience any issues during registration or login, please reach out to support@abstract-technology.de.*

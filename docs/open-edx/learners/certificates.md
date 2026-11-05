@@ -16,6 +16,8 @@ Once you have successfully completed all course requirements, Open edX automatic
    * Navigate to your **Dashboard**, open your course, and click on the **"Progress"** tab. 
    * Check that all required components show completed statuses and that your final grade is posted.
 
+   ![Progress page with course completion and grades](images/certificates/01-progress-page.png)
+
 ## Part 2: Receiving Your Certificate
 
 1. **Automatic Generation:**
@@ -26,11 +28,15 @@ Once you have successfully completed all course requirements, Open edX automatic
 
    * You will typically see a notification banner on your course dashboard or receive an email notifying you that your certificate is ready.
 
+   ![Your certificate is available message with the View my certificate link](images/certificates/02-certificate-available.png)
+
 ## Part 3: Downloading Your Certificate
 
 1. **Go to Your Dashboard:**
 
    * Log in and navigate to your main **Dashboard**.
+
+   ![User menu with the Dashboard option](images/certificates/03-dashboard-menu.png)
 
 2. **Locate the Completed Course:**
 
@@ -39,6 +45,8 @@ Once you have successfully completed all course requirements, Open edX automatic
 3. **Download Options:**
 
    * Click the **"Download Certificate"** button (available as a PDF) or the **"View Certificate"** link.
+
+   ![Completed course on the dashboard with the final grade and View Certificate button](images/certificates/04-view-certificate-dashboard.png)
    * You can save the PDF to your device, print it, or share the unique certificate URL directly on professional networks like LinkedIn.
 
 *Need help? If you experience any issues during registration or login, please reach out to support@abstract-technology.de.*

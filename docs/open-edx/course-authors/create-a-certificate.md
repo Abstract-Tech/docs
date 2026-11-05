@@ -43,6 +43,8 @@ Follow this step-by-step guide to set up, configure, and issue digital completio
    * **Course:** Select your specific course from the dropdown list.
    * **Mode:** Choose the certificate type (e.g., `audit`, `verified`, `no-id-professional`, `credit`, `professional`, or `honor`).
    * **Price & Currency:** Set the price and currency if applicable (leave default or zero for free courses).
+
+   ![Django admin course mode form with the Course, Mode, Price and Currency fields](images/create-a-certificate/01-django-admin-add-course-mode.png)
 5. **Save:**  
    Click **"Save"** at the bottom right. Once saved, return to Studio > Settings > Certificates.
 
