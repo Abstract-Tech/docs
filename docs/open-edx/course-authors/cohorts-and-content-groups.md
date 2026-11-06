@@ -37,6 +37,8 @@ Cohorts allow you to group learners (for example, by region, organization, or le
 
    * You can manually assign learners to cohorts via the **Instructor Dashboard** in the live LMS under **Student Management > Cohorts**.
 
+     ![Instructor Dashboard with the Cohorts tab open](images/cohorts-and-content-groups/01-instructor-dashboard-cohorts.png)
+
    * Alternatively, you can configure automated enrollment rules so learners are automatically assigned to specific cohorts based on their registration track or sign-up code.
 
 ## Part 3: Creating and Managing Content Groups
@@ -49,17 +51,25 @@ Content groups allow you to deliver different versions of specific course compon
 2. **Add a Content Group:**
    Click **"Add Content Group"**. Enter a name for the group (e.g., *Advanced Track* or *Enterprise Clients*) and save.
 
+   ![Group Configurations page with the Add your first content group button](images/cohorts-and-content-groups/02-add-content-group.png)
+
 3. **Apply Content Groups to Courseware:**
 
    * Open your **Course Outline** in Studio and navigate to the unit where you want to restrict or customize content.
 
    * Click the **Configure (gear)** icon on a specific component or subsection.
 
+     ![Access Settings (gear) icon of a component on a Studio unit page](images/cohorts-and-content-groups/03-component-access-settings-icon.png)
+
    * Select the **VISIBILITY** tab.
 
    * Under **Accessability / Hide/Show to specific groups**, select the content group that should have access to this component.
 
+     ![Editing access dialog with Content Groups in the Restrict access to dropdown](images/cohorts-and-content-groups/04-restrict-access-content-groups.png)
+
    * Save and publish your changes. Learners outside the assigned content group will not see this specific component.
+
+     ![Message under the component title listing the groups that have access](images/cohorts-and-content-groups/05-access-restriction-indicator.png)
 
 *Need help? If you experience any issues during registration or login, please reach out to support@abstract-technology.de.*
 

@@ -10,8 +10,13 @@ Before publishing your course publicly, ensure you have completed the following 
 
 1. **Review Course Outline:** Ensure all sections, subsections, and units are properly structured and that individual unit content has been published.
 2. **Check Course Dates:** Verify that your course start date, end date, and enrollment start/end dates are correctly configured in **Settings > Schedule & Details**.
+
+   ![Course Schedule section in Settings > Schedule & Details](images/publish-course/01-course-schedule.png)
+
 3. **Verify Grading Settings:** Confirm that your grading categories total 100% and your passing grade is set in **Settings > Grading**.
 4. **Run a Preview:** Click the **"View Live"** or **"Preview"** button in Studio to test the learner experience and ensure all links, videos, and quizzes work correctly.
+
+   ![View live button in the Studio course outline](images/publish-course/02-view-live-button.png)
 
 ## Part 2: Publishing the Course
 
@@ -22,6 +27,8 @@ Before publishing your course publicly, ensure you have completed the following 
 2. **Locate the Publish Banner:**
 
    * If you have unpublished changes or a newly created course, look for the notification banner or button at the top or side of the course outline that reads **"Publish"** or **"Release Course"**.
+
+     ![Publish option in a section's menu in the course outline](images/publish-course/03-publish-section-menu.png)
 
 3. **Confirm Publication:**
 
@@ -38,5 +45,7 @@ Before publishing your course publicly, ensure you have completed the following 
 2. **Verify on the LMS:**
 
    * Log into your platform's main LMS portal (or click **"View Live"** in Studio) to confirm that the course appears in the course catalog and that the "Enroll Now" button is active and functioning properly.
+
+     ![View live button in the Studio course outline](images/publish-course/02-view-live-button.png)
 
 *Need help? If you experience any issues during registration or login, please reach out to support@abstract-technology.de.*

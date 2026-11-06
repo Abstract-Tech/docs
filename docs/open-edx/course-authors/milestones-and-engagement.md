@@ -12,6 +12,8 @@ Follow this guide to activate and configure these features via the Django Admini
 
 When learners complete the first section of a course, a celebratory pop-up modal appears to acknowledge their progress.
 
+![Congratulations pop-up after completing the first section](images/milestones-and-engagement/01-first-section-celebration.png)
+
 1. **Log In to Django Admin:**  
    Log in to your Open edX platform with an administrator account and open the **Django Administration** panel (`https://yourdomain.com/admin/`).
 2. **Navigate to Waffle Flags:**  
@@ -30,6 +32,8 @@ When learners complete the first section of a course, a celebratory pop-up modal
 
 When learners successfully finish an entire course, a congratulatory microfrontend completion page appears.
 
+![Course completion celebration page](images/milestones-and-engagement/02-course-completion-page.png)
+
 1. **Access Django Admin:**  
    Navigate to the **Django Administration** panel.
 2. **Open Waffle Flags:**  
@@ -46,6 +50,8 @@ When learners successfully finish an entire course, a congratulatory microfronte
 
 This feature allows learners to set personal study goals (Casual: 1 day/week, Regular: 3 days/week, or Intense: 5 days/week) and receive automated email reminders if they fall behind schedule.
 
+![Weekly learning goal options with the goal reminder toggle](images/milestones-and-engagement/03-weekly-learning-goals.png)
+
 1. **Access Django Admin:**  
    Go to your **Django Administration** panel.
 2. **Open Waffle Flags:**  
@@ -58,11 +64,15 @@ This feature allows learners to set personal study goals (Casual: 1 day/week, Re
 
 *Note on Automated Reminders:* Depending on the learner's chosen goal frequency, automated reminder emails are dispatched prior to the end of the week (Sundays for 1 day/week, Fridays for 3 days/week, Wednesdays for 5 days/week) to give them time to log back in.
 
+![Goal reminder email sent to a learner](images/milestones-and-engagement/04-goal-reminder-email.png)
+
 ---
 
 ## Part 4: Enabling Learner Streaks and Activity Celebrations
 
 Streak celebrations track continuous learner engagement across platform activities and display milestone pop-ups (e.g., "3 day streak").
+
+![3 day streak celebration pop-up](images/milestones-and-engagement/05-streak-celebration.png)
 
 1. **Access Django Admin:**  
    Go to your **Django Administration** panel and open **django-waffle > Flags**. Click **"Add flag +"**.
